@@ -85,7 +85,7 @@ The code is intentionally kept in a single file for simplicity. Classes inside:
 
 The free code here runs perfectly. If you want to understand **every line** — why `1/(dist+1)` was chosen over other formulas, why the damping factor is 0.72, what alternatives exist for each algorithm, and how to extend this into neural networks or moving obstacles:
 
-📦 **[Full commented code + PDF guide →]https://claudineia8.gumroad.com/l/rvyvl**
+📦 **[Full commented code + PDF guide → https://claudineia8.gumroad.com/l/rvyvl**
 
 Includes:
 - Fully commented source code with line-by-line explanations
